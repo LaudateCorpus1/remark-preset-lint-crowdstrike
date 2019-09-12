@@ -43,5 +43,8 @@
     "remark-cli": "^6.0.1",
     "renovate-config-standard": "^2.0.0",
     "standard-version": "^7.0.0"
+  },
+  "peerDependencies": {
+    "remark-cli": "6"
   }
 }
