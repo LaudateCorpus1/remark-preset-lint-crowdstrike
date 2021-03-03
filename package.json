@@ -34,7 +34,7 @@
     "remark-validate-links": "^10.0.0"
   },
   "devDependencies": {
-    "@crowdstrike/commitlint": "^1.0.3",
+    "@crowdstrike/commitlint": "^3.0.0",
     "eslint": "^7.0.0",
     "eslint-config-crowdstrike": "^3.0.0",
     "eslint-config-crowdstrike-node": "^3.0.0",
